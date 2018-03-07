@@ -6,8 +6,14 @@ import java.io.InputStreamReader;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        Circle circleA = getCircle();
-        Circle circleB = getCircle();
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+
+        String[] input = reader.readLine().trim().split("\\s+");
+        Circle circleA = getCircle(input);
+
+        String[] input1 = reader.readLine().trim().split("\\s+");
+        Circle circleB = getCircle(input1);
+
         boolean circlesIntersect = circleA.getCenter().distanceTo(circleB.getCenter()) <=
                 circleA.getRadius() + circleB.getRadius();
 
@@ -18,9 +24,7 @@ public class Main {
         }
     }
 
-    private static Circle getCircle() throws IOException {
-        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        String[] input = reader.readLine().trim().split("\\s+");
+    private static Circle getCircle(String[] input) throws IOException {
         int[] data = new int[input.length];
         for (int i = 0; i < input.length; i++) {
             data[i] = Integer.parseInt(input[i]);
