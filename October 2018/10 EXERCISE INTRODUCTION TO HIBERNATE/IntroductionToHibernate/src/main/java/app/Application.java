@@ -13,5 +13,7 @@ public class Application {
 
         Runnable engine = new Engine(entityManager);
         engine.run();
+
+        entityManagerFactory.close();
     }
 }

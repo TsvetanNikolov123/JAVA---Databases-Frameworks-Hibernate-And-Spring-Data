@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class P06_AddingANewAddressAndUpdatingEmployee {
 
     private final EntityManager entityManager;
-    Scanner scanner = new Scanner(System.in);
+    private Scanner scanner = new Scanner(System.in);
 
     public P06_AddingANewAddressAndUpdatingEmployee(EntityManager entityManager) {
         this.entityManager = entityManager;
