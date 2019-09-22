@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="src">
-    <CLASSES />
-    <JAVADOC />
-    <SOURCES>
-      <root url="file://$PROJECT_DIR$/../../../Others/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46/src" />
-    </SOURCES>
-  </library>
-</component>
