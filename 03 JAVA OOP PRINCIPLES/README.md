@@ -46,7 +46,7 @@ For rectangle drawing algorithm will be:
 
 <br/>
 
-### Solution: <a title="" href=""></a>
+### Solution: <a title="01 Shapes Drawing" href="https://github.com/TsvetanNikolov123/JAVA---Databases-Frameworks-Hibernate-And-Spring-Data/tree/master/03%20JAVA%20OOP%20PRINCIPLES/p01_ShapesDrawing">01 Shapes Drawing</a>
 
 ---
 03.02 Car Shop
@@ -83,7 +83,7 @@ Your hierarchy have to be used with this code
 <kbd><img src="https://user-images.githubusercontent.com/32310938/65386185-c2f51d80-dd40-11e9-9f79-e8ad9da0fedf.png" alt="alt text" width="400" height=""></kbd>
 <br/>
 
-### Solution: <a title="" href=""></a>
+### Solution: <a title="02 Car Shop" href="https://github.com/TsvetanNikolov123/JAVA---Databases-Frameworks-Hibernate-And-Spring-Data/tree/master/03%20JAVA%20OOP%20PRINCIPLES/p02_CarShop">02 Car Shop</a>
 
 ---
 03.03 Car Shop Extend
@@ -122,7 +122,7 @@ Your hierarchy have to be used with this code
 |           | Leon is gray and have 110 horse power This is Leon produced in Spain and have 4 tires |
 <br/>
 
-### Solution: <a title="" href=""></a>
+### Solution: <a title="03 Car Shop Extend" href="https://github.com/TsvetanNikolov123/JAVA---Databases-Frameworks-Hibernate-And-Spring-Data/tree/master/03%20JAVA%20OOP%20PRINCIPLES/p03_CarShopExtend">03 Car Shop Extend</a>
 
 ---
 03.04 Say Hello
@@ -161,7 +161,7 @@ Your hierarchy have to be used with this code
 |           | Здравей <br/> Hello <br/> Djydjybydjy |
 <br/>
 
-### Solution: <a title="" href=""></a>
+### Solution: <a title="04 Say Hello" href="https://github.com/TsvetanNikolov123/JAVA---Databases-Frameworks-Hibernate-And-Spring-Data/tree/master/03%20JAVA%20OOP%20PRINCIPLES/p04_SayHello">04 Say Hello</a>
 
 ---
 04.05 Say Hello Extend
@@ -200,6 +200,6 @@ Your hierarchy have to be used with this code
 |           | Здравей <br/> Hello <br/> Djydjybydjy |
 <br/>
 
-### Solution: <a title="" href=""></a>
+### Solution: <a title="05 Say Hello Extend" href="https://github.com/TsvetanNikolov123/JAVA---Databases-Frameworks-Hibernate-And-Spring-Data/tree/master/03%20JAVA%20OOP%20PRINCIPLES/p05_SayHelloExtend">05 Say Hello Extend</a>
 
 ---
