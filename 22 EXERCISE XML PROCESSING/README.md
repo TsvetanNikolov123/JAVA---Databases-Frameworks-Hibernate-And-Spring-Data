@@ -143,9 +143,14 @@ to structure your data.
       ...
     </users>
 
+<br/>
 
-Car Dealer Database
-===================
+### Solution: <a title="01 Product Shop Database" href="">01 Product Shop Database</a>
+
+---
+
+22.2 Car Dealer Database
+========================
 
 In the next exercises you will be required to **use the models** from the
 [previous exercise for JSON
@@ -305,6 +310,6 @@ sales **to XML** in the format provided below.
 
 <br/>
 
-### Solution: <a title="01 Product Shop Database" href="https://github.com/TsvetanNikolov123/JAVA---Databases-Frameworks-Hibernate-And-Spring-Data/tree/master/22%20EXERCISE%20XML%20PROCESSING/CarDealer">01 Product Shop Database</a>
+### Solution: <a title="2 Car Dealer Database" href="https://github.com/TsvetanNikolov123/JAVA---Databases-Frameworks-Hibernate-And-Spring-Data/tree/master/22%20EXERCISE%20XML%20PROCESSING/CarDealer">2 Car Dealer Database</a>
 
 ---
